@@ -1,5 +1,0 @@
-/Users/michelle211/Documents/testplay/ffplay-xproj/main.c: In function 'SDL_main':
-/Users/michelle211/Documents/testplay/ffplay-xproj/main.c:2689: warning: assignment makes pointer from integer without a cast
-/Users/michelle211/Documents/testplay/ffplay-xproj/main.c:2690: warning: passing argument 1 of 'SDL_CreateRenderer' makes integer from pointer without a cast
-/Users/michelle211/Documents/testplay/ffplay-xproj/main.c:2716: warning: passing argument 4 of 'glFramebufferRenderbufferOES' makes integer from pointer without a cast
-/Users/michelle211/Documents/testplay/ffplay-xproj/main.c:2773: warning: pointer targets in assignment differ in signedness
