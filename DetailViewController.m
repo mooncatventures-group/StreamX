@@ -8,7 +8,6 @@
 //#import "PhotoViewController.h"
 #import <MediaPlayer/MediaPlayer.h>
 
-
 @implementation DetailViewController
 
 @synthesize book, dateFormatter;

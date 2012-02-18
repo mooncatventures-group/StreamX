@@ -1,5 +1,4 @@
 /*
-
 ===== IMPORTANT =====
 
 This is sample code demonstrating API, technology or techniques in development.

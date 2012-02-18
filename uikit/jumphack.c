@@ -5,7 +5,6 @@
  */
 
 #include "jumphack.h"
-
 /* see SDL_uikitevents.m for more info */
 
 /* stores the information we need to jump back */

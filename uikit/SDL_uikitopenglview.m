@@ -19,7 +19,6 @@
  Sam Lantinga
  slouken@libsdl.org
  */
-
 #import <QuartzCore/QuartzCore.h>
 #import <OpenGLES/EAGLDrawable.h>
 #import "SDL_uikitopenglview.h"

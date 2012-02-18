@@ -1,7 +1,6 @@
 //
 //  CDataScanner.m
 //  TouchJSON
-//
 //  Created by Jonathan Wight on 04/16/08.
 //  Copyright (c) 2008 Jonathan Wight
 //

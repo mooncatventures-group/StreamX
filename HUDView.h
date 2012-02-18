@@ -1,5 +1,6 @@
 @interface HUDView : UIView {
 NSString *text;
+    
 }
 - (id)initWithFrame:(CGRect)frame andText:(NSString *)txt;
 -(void)quitClicked;

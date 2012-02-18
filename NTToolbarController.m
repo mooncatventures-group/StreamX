@@ -8,7 +8,6 @@
 
 #import "NTToolbarController.h"
 
-
 @implementation NTToolbarController
 @synthesize theToolbar, delegate;
 @synthesize previousItem, nextItem, cancelandrefreshItem;

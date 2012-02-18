@@ -12,7 +12,6 @@
 	NSString *urlString;
     UISegmentedControl *fetchSectioningControl;
 }
-
 //@property (nonatomic, retain, readonly) SongDetailsController *detailController;
 //@property (nonatomic, retain) NSManagedObjectContext *managedObjectContext;
 @property (nonatomic, retain) IBOutlet UITableView *tableView;

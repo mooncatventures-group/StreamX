@@ -5,7 +5,6 @@
 #import "SDLviewController.h"
 #import <MediaPlayer/MediaPlayer.h>
 #define OVERLAY_ALPHA 0.0f
-
 @implementation CdDetailViewController
 @synthesize dateFormatter, undoManager;
 @synthesize button;

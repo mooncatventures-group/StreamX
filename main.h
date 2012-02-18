@@ -2,7 +2,6 @@
  
  #ifndef MAIN_H
 #define MAIN_H
-
 /*
  * FFplay : Simple Media Player based on the ffmpeg libraries
  * Copyright (c) 2003 Fabrice Bellard

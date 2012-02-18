@@ -11,7 +11,6 @@
 #include "SDL_uikitopenglview.h"
 
 
-
 /*
 	Produces a random int x, min <= x <= max 
 	following a uniform distribution

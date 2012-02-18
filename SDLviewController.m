@@ -5,7 +5,6 @@
 //  Created by Michelle on 2/14/10.
 //  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
-
 #import "SDLviewController.h"
 #import "sdl.h"
 #define OVERLAY_ALPHA 0.90f

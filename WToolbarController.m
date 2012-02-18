@@ -3,7 +3,6 @@
 //
 //  Created by xu on 4/19/09.
 //  Copyright 2009 __mooncatventures.com__. All rights reserved.
-//
 
 #import "WToolbarController.h"
 

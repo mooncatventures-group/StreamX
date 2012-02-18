@@ -19,7 +19,6 @@
     Sam Lantinga
     slouken@libsdl.org
 */
-
 #import <UIKit/UIKit.h>
 #include "SDL_stdinc.h"
 #include "SDL_mouse.h"

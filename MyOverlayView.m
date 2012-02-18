@@ -1,7 +1,6 @@
 
 #import "MyOverlayView.h"
 
-
 @implementation MyOverlayView
 
 // MPMoviePlayerController will play movies full-screen in 

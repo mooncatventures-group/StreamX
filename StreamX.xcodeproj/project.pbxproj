@@ -96,16 +96,6 @@
 		CCAD33160F3977EC00BEBFF4 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CCAD33150F3977EC00BEBFF4 /* CoreAudio.framework */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		219C0F12113A039E0043B13D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 219C0F0E113A039E0043B13D /* Streams2.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 1D6058910D05DD3D006BFB54;
-			remoteInfo = Streams2;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -172,7 +162,7 @@
 		219C0F08113A033B0043B13D /* EditingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditingViewController.m; sourceTree = "<group>"; };
 		219C0F0B113A03750043B13D /* NTToolbarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NTToolbarController.h; sourceTree = "<group>"; };
 		219C0F0C113A03750043B13D /* NTToolbarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NTToolbarController.m; sourceTree = "<group>"; };
-		219C0F0E113A039E0043B13D /* Streams2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Streams2.xcodeproj; path = ../../../../connect/stream21/Streams2.xcodeproj; sourceTree = SOURCE_ROOT; };
+		219C0F0E113A039E0043B13D /* Streams2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Streams2.xcodeproj; path = ../../../connect/stream21/Streams2.xcodeproj; sourceTree = SOURCE_ROOT; };
 		219C0F14113A03BB0043B13D /* Book.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
 		219C0F15113A03BB0043B13D /* Book.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
 		219C0F65113A05760043B13D /* CdDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CdDetailViewController.h; sourceTree = "<group>"; };
@@ -325,14 +315,6 @@
 				219C0A7D1139DA6A0043B13D /* CJSONSerializer.m */,
 			);
 			path = JSON;
-			sourceTree = "<group>";
-		};
-		219C0F0F113A039E0043B13D /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				219C0F13113A039E0043B13D /* Streams2.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		21B4077B112E1EF4000FD7E7 /* Other Classes */ = {
@@ -598,28 +580,12 @@
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 219C0F0F113A039E0043B13D /* Products */;
-					ProjectRef = 219C0F0E113A039E0043B13D /* Streams2.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				1D6058900D05DD3D006BFB54 /* StreamX */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		219C0F13113A039E0043B13D /* Streams2.app */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.application;
-			path = Streams2.app;
-			remoteRef = 219C0F12113A039E0043B13D /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		1D60588D0D05DD3D006BFB54 /* Resources */ = {

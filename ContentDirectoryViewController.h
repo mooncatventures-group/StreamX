@@ -13,7 +13,6 @@
 
   NSMutableData *responseData;
   ApplicationCell *tmpCell;
-
  
 }
 

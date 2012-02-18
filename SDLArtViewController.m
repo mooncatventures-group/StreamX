@@ -5,7 +5,6 @@
 //  Created by Michelle on 2/15/10.
 //  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
-
 #import "SDLArtViewController.h"
 
 

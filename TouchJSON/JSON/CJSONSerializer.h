@@ -4,7 +4,6 @@
 //
 //  Created by Jonathan Wight on 12/07/2005.
 //  Copyright (c) 2005 Jonathan Wight
-//
 //  Permission is hereby granted, free of charge, to any person
 //  obtaining a copy of this software and associated documentation
 //  files (the "Software"), to deal in the Software without

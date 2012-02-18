@@ -19,7 +19,6 @@
 		
 }
 
-
 @property (nonatomic, retain) IBOutlet UITableView *tableView;
 @property (nonatomic, retain) IBOutlet UITableView *entityTableView;
 @property (nonatomic, retain) IBOutlet UISegmentedControl *fetchSectioningControl;

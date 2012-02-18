@@ -3,7 +3,6 @@
 <version>1.0</version>
 </codex>
 */
-
 /* Degrees / Radians conversion */
 #define DEGREES_TO_RADIANS(__ANGLE__) ((__ANGLE__) / 180.0 * M_PI)
 #define RADIANS_TO_DEGREES(__ANGLE__) ((__ANGLE__) / M_PI * 180.0)

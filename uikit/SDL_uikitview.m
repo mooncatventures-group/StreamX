@@ -19,7 +19,6 @@
  Sam Lantinga
  slouken@libsdl.org
  */
-
 #import "SDL_uikitview.h"
 #import "HUDView.h"
 #if SDL_IPHONE_KEYBOARD

@@ -1,7 +1,6 @@
 //
 //  CJSONDeserializer.m
 //  TouchJSON
-//
 //  Created by Jonathan Wight on 12/15/2005.
 //  Copyright (c) 2005 Jonathan Wight
 //

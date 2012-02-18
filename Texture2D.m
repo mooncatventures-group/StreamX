@@ -1,7 +1,6 @@
 /*
 
 ===== IMPORTANT =====
-
 This is sample code demonstrating API, technology or techniques in development.
 Although this sample code has been reviewed for technical accuracy, it is not
 final. Apple is supplying this information to help you plan for the adoption of

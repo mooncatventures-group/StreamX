@@ -2,7 +2,7 @@
  * FFplay : Simple Media Player based on the ffmpeg libraries
  * Copyright (c) 2003 Fabrice Bellard
  *
- * This file is part of FFmpeg.
+ *This file is part of FFmpeg.
  *
  * FFmpeg is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public

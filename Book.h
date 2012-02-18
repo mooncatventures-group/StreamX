@@ -8,7 +8,6 @@
 
 #import <CoreData/CoreData.h>
 
-
 @interface Book  
 {
 }

@@ -1,7 +1,6 @@
 //
 //  NSDictionary_JSONExtensions.h
 //  TouchJSON
-//
 //  Created by Jonathan Wight on 04/17/08.
 //  Copyright (c) 2008 Jonathan Wight
 //

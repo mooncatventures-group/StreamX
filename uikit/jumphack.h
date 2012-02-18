@@ -4,7 +4,6 @@
  *
  */
 
-
 #ifndef _jumphack_h
 #define _jumphack_h
 #include "setjmp.h"

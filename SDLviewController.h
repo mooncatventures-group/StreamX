@@ -16,7 +16,6 @@ UIView *overlayView;
 UILabel *overlayLabel;
 
 
-
 }
 @property (nonatomic, retain) UIView *overlayView;
 @property (nonatomic, retain) UILabel *overlayLabel;

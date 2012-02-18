@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import "SDL_uikitappdelegate.h"
-
 @interface NeutralViewController : UIViewController {
 IBOutlet UITabBar *tabBar;	
 
