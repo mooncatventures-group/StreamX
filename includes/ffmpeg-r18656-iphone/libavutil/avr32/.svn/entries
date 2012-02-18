@@ -1,0 +1,52 @@
+8
+
+dir
+20797
+svn://svn.ffmpeg.org/ffmpeg/trunk/libavutil/avr32
+svn://svn.ffmpeg.org/ffmpeg
+
+
+
+2009-08-17T00:15:53.581436Z
+19665
+mru
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9553f0bf-9b14-0410-a0b8-cfaf0461ba5b
+
+bswap.h
+file
+
+
+
+
+2009-12-11T14:04:06.000000Z
+d17f6483a715e16bd3f5636ef53cfd4a
+2009-08-17T00:15:51.385016Z
+19664
+mru
+
+intreadwrite.h
+file
+
+
+
+
+2009-12-11T14:04:06.000000Z
+b7937378131eb2e943aae0c422d36dab
+2009-08-17T00:15:53.581436Z
+19665
+mru
+

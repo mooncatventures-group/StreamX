@@ -1,0 +1,41 @@
+8
+
+dir
+20797
+svn://svn.ffmpeg.org/ffmpeg/trunk/libavcodec/mlib
+svn://svn.ffmpeg.org/ffmpeg
+
+
+
+2009-01-19T15:46:40.737658Z
+16684
+diego
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9553f0bf-9b14-0410-a0b8-cfaf0461ba5b
+
+dsputil_mlib.c
+file
+
+
+
+
+2009-12-11T14:04:11.000000Z
+296a0396f343b497a3ab5079937c053b
+2009-01-19T15:46:40.737658Z
+16684
+diego
+has-props
+

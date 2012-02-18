@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 43
+*.d
+*.exe
+*.ho
+*-example
+*-test
+libavutil*
+
+END

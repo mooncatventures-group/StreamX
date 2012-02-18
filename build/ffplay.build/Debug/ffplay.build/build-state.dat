@@ -1,0 +1,75 @@
+Tffplay
+v7
+r1
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/DELTA.MPG
+c0000000049F0C3DD0000000000098EEB
+t1240515549
+s626411
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/Default.png
+c0000000049EDAE8E00000000000047CF
+t1240313486
+s18383
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/Entitlements.plist
+c000000004946C87E00000000000000E0
+t1229375614
+s224
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/Icon.png
+c0000000049EDAE8E0000000000000969
+t1240313486
+s2409
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app
+t2
+s0
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/Info.plist
+t2
+s0
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/Resources/DELTA.MPG
+t2
+s0
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/Resources/Entitlements.plist
+t2
+s0
+
+N/Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/Resources/Icon.png
+t2
+s0
+
+NInfo.plist
+c0000000049EF847200000000000003CD
+t1240433778
+s973
+
+CCopyPlistFile /Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/Resources/Entitlements.plist Entitlements.plist
+r0
+
+CCpResource build/Debug/ffplay.app/Contents/Resources/DELTA.MPG DELTA.MPG
+r0
+
+CCpResource build/Debug/ffplay.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/ffplay.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CProcessInfoPlistFile /Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/michelle211/Documents/testplay/ffplay-xproj-19/build/Debug/ffplay.app
+r0
+

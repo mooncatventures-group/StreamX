@@ -1,0 +1,52 @@
+8
+
+dir
+20797
+svn://svn.ffmpeg.org/ffmpeg/trunk/libavutil/ppc
+svn://svn.ffmpeg.org/ffmpeg
+
+
+
+2009-07-29T19:06:55.108038Z
+19536
+mru
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9553f0bf-9b14-0410-a0b8-cfaf0461ba5b
+
+timer.h
+file
+
+
+
+
+2009-12-11T14:04:06.000000Z
+b8c10ce7699ec05373905e71a7c37e8a
+2009-04-01T22:56:22.520679Z
+18304
+mru
+
+intreadwrite.h
+file
+
+
+
+
+2009-12-11T14:04:06.000000Z
+de52220a3a24eefc7d32936f55eadc45
+2009-07-29T19:06:55.108038Z
+19536
+mru
+
